@@ -94,13 +94,13 @@ Milestone 2 — Ethereum Launch
 Estimated Duration: 1,5 months
 Full-time Equivalent (FTE): 2
 Costs: 1980 DAI
-In this second milestone: Initial codebase launches on Ethereum layer 2, build Polygon. 
+In this second milestone: Initial codebase launches on Ethereum layer 2, build Polygon, along with the protocol will develop/test bridges based on Chainbridge's technology and XCMP technology from moonbeam to polygon, to connect the two chains.
 
 Milestone 3 — Verify Production of Concepts (POC) and Implement Moonbeam bridge Modules + (Swap functions + SDK)
 Estimated Duration: 2 months
 Full-time Equivalent (FTE): 2
 Costs: 1500 DAI
-In this milestone, swapping functionalities will be implemented between moonbeam and EVM. Bridge DMOD token for testing and debugging. These specific features for the POC will be implemented and tested by the community and users in the space. 
+In this milestone, swapping functionalities will be implemented between moonbeam and EVM based chains and non EVM based parachains. Will build solidity and ink! based smart contracts for the protocol on other chains, use xtokens pallet and bridges to Bridge DMOD token for testing and debugging. These specific features for the POC will be implemented and tested by the community and users in the space. 
 
 Front End
 Number	Deliverable		  Specification
@@ -116,7 +116,7 @@ Future Plans
 In phase 1, intro stable coin DUSD
 In phase 2, make and create, deploy NFTs and trade NFTs on the open market.
 In phase 3, integrate more NFTs on Polkadot cross-chain technology for attracting liquidity and offer NFT-flashloans. 
-In phase 4, more integration with Substrate based projects.
+In phase 4, more integration with Substrate based projects, deploying either complete protocol or protocol gateway on substrate based chains to interoperability.
 
 Additional Information ➕
 We have already received attention from a consortium of very well-known investors and projects, yet we are focusing on Product dev. Polygon and Moonbeam are willing to support in any way possible as they believe in the development of the project. 
@@ -130,4 +130,4 @@ Have you applied for other grants so far?
 Yes, to moonbeam grant. The primarily goal is to set up a partnership and initially not receiving funds, because we think an official partnership is more valuable  to the project. Basically, Demodyfi is supporting Moonbeam as an AMM and is creating more volume towards the moonbeam ecosystem. Secondly, to contribute in the adoption and scalability. Status of contact is that we have close communication lines with the Moonbeam team as we are now in the status of sharing our code base. 
 
 Scope would look like: 
-Moonbeam alpha -> Ethereum launch -> Bridge implementation -> DMOD & Moonriver Deployment -> Launch EVM-Moonbeam parachain. 
+Moonbeam alpha -> Ethereum launch -> Bridge implementation -> ink! based procotol contracts -> DMOD & Moonriver Deployment -> Launch EVM-Moonbeam parachain. 
