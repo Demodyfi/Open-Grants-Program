@@ -99,7 +99,10 @@ In this second milestone: Initial codebase launches on Ethereum layer 2, build P
 Estimated Duration: 2 months
 Full-time Equivalent (FTE): 2
 Costs: 1500 DAI
-In this milestone, swapping functionalities will be implemented between moonbeam and EVM based chains and non EVM based parachains. Will build solidity and ink! based smart contracts for the protocol on other chains, use xtokens pallet and bridges to Bridge DMOD token for testing and debugging. These specific features for the POC will be implemented and tested by the community and users in the space. 
+- In this milestone, swapping functionalities will be implemented between moonbeam and EVM based chains and non EVM based parachains.
+- Will build solidity and ink! based smart contracts for the demodyfi protocol to deploy it on non-EVM based substrate parachains and connect them with bridges making demodyfi work across chains. 
+- use xtokens pallet and bridges to Bridge DMOD token to other parachains/chains for testing and debugging. 
+- These specific features for the POC will be implemented and tested by the community and users in the space. 
 
 ### Front End
 Number	Deliverable		  Specification
